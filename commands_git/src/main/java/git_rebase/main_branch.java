@@ -7,4 +7,5 @@ public class main_branch {
     String c = "commit 6 for main branch";
 
     String d = "commit for merge test";
+    String e = "commit for merge test 2";
 }
