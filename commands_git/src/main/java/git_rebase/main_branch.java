@@ -5,4 +5,6 @@ public class main_branch {
     String a = "commit 3 of main branch";
     String b = "commit 4 for main branch";
     String c = "commit 6 for main branch";
+
+    String d = "commit for merge test";
 }
