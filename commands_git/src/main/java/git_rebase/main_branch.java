@@ -10,4 +10,5 @@ public class main_branch {
     String e = "commit for merge test 2";
 
     int money = 123;
+    int weight = 64;
 }
