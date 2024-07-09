@@ -8,4 +8,6 @@ public class main_branch {
 
     String d = "commit for merge test";
     String e = "commit for merge test 2";
+
+    int money = 123;
 }
