@@ -11,4 +11,6 @@ public class main_branch {
 
     int money = 123;
     int weight = 64;
+
+    String scenario_conflict_main = "this is code is created in main branch for conflict scenario";
 }
