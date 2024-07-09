@@ -13,6 +13,7 @@ public class main_branch {
     int weight = 64;
     String[] date = {"monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"};
 
+    String conflict_scenario = "this is a conflict code";
 
 
 }
