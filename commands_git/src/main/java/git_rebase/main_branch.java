@@ -11,4 +11,7 @@ public class main_branch {
 
     int money = 123;
     int weight = 64;
+    String[] date = {"monday", "tuesday", "wednesday", "thursday", "friday", "saturday", "sunday"};
+
+
 }
