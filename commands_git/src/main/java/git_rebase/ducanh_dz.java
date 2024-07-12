@@ -10,4 +10,8 @@ public class ducanh_dz {
 
     jfaklsjdlfjlaksjdf
 
+    int number1 = 1;
+    int number2 = 2;
+    int number3 = 3;
+
 }
