@@ -15,6 +15,6 @@ public class main_branch {
     String scenario_conflict_main = "this is code is created in main branch for conflict scenario";
 
     String medicine = "headache";
-    String stash_for_main;
+    String stash_for_main = "this is a example for stash ahahha";
 
 }
