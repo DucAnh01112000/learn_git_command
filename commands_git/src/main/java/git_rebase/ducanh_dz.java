@@ -14,4 +14,7 @@ public class ducanh_dz {
     int number2 = 2;
     int number3 = 3;
 
+    int number4 = 4;
+
+    int number5 = 5;
 }
